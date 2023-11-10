@@ -1,5 +1,3 @@
-Here is an English translation of the project description for github:
-
 # Project Overview
 
 This project is a microservices RPC framework based on muduo+protobuf+zookeeper. Service providers can register RPC nodes and publish services through the mprpc framework. Clients can discover services through the ZooKeeper service configuration center and make remote method calls.
